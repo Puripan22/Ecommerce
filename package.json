@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@headlessui/react": "^2.1.10",
-    "@stripe/stripe-js": "^4.8.0",
+    "@stripe/stripe-js": "^4.9.0",
     "bcryptjs": "^2.4.3",
     "firebase": "^10.14.1",
     "joi": "^17.13.3",
